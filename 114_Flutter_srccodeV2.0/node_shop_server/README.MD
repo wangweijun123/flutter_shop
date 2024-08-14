@@ -49,3 +49,15 @@ Done in 5.65s.
 
 D:\work\node_shop_server>yarn start
 yarn run v1.22.22
+
+
+
+http://localhost:3000/getHomePageContent
+
+
+For more information on how to connect a Flutter app to localhost on emulator or on a real device click on the link Connecting Flutter application to Localhost
+
+https://medium.com/@podcoder/connecting-flutter-application-to-localhost-a1022df63130
+
+
+
